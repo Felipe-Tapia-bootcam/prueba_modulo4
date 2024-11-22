@@ -1,0 +1,5 @@
+package cl.felipetapia.vistas;
+
+public abstract class MenuTemplate {
+
+}

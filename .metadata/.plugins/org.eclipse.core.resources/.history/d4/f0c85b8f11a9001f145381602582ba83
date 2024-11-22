@@ -1,0 +1,21 @@
+package cl.felipetapia.modelos;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Alumno {
+	
+	private String rut;
+    private String nombre;
+    private String apellido;
+    private String direccion;
+    private List<Materia> materias = new ArrayList<>();
+    
+    public Alumno(String rut, String nombre, String apellido, String direccion) {
+        this.rut = rut;
+        this.nombre = nombre;
+        this.apellido = apellido;
+        this.direccion = direccion;
+    }
+
+}

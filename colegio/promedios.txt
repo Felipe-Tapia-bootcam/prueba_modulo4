@@ -1,0 +1,1 @@
+Alumno {RUT='15369754-k', Nombre='elisa', Apellido='zarate', Dirección='perres 356', Materias=[Materia{nombre=MATEMATICAS, notas=[40.0]}, Materia{nombre=MATEMATICAS, notas=[]}]}
